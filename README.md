@@ -3,15 +3,16 @@
 
 
 source
-  front-angular
-  back-springboot
-  database
+  -front-angular
+  -back-springboot
+  -database
 
 Planning Documents
 
 Meeting Minutes
 
 Project Reports
+  -Deliverable1
 
 GROUP-INFO
 
