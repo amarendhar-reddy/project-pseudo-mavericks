@@ -1,1 +1,5 @@
 This file demonstrates the locations of files for Deliverable3 and their respective locations from the top level directory.
+
+Updated meeting minutes files location :
+  Meeting Minutes ------>meeeting_minutes_3_2_22.docx
+                  ------->meeting_minutes_3_21_22.docx
