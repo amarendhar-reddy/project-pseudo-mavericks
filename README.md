@@ -51,8 +51,6 @@ Employee Creation Screen
 
 ## Installation
 
-Install my-project with npm
-
 ```bash
 1.	Download the project zip file.
     Can use GitHub to clone the repository using the below URL.
