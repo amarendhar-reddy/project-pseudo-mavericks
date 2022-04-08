@@ -90,11 +90,11 @@ $employee = $stmt->fetch();
                                     <div class="form-row">
                                         <div class="col-md-6 mb-3">
                                             <label class="form-control-label" for="validationCustom01">First Name*</label>
-                                            <input required type="text" class="form-control" name="firstname" value="<?php echo $employee['firstname']; ?>">
+                                            <input required type="text" class="form-control" name="firstname" readonly value="<?php echo $employee['firstname']; ?>">
                                         </div>
                                         <div class="col-md-6 mb-3">
                                             <label class="form-control-label" for="validationCustom01">Last Name*</label>
-                                            <input required type="text" class="form-control" name="lastname" value="<?php echo $employee['lastname']; ?>">
+                                            <input required type="text" class="form-control" name="lastname" readonly value="<?php echo $employee['lastname']; ?>">
                                         </div>
                                         
                                     </div>
