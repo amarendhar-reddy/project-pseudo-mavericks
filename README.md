@@ -56,7 +56,7 @@ Employee Creation Screen
     Can use GitHub to clone the repository using the below URL.
     https://github.com/amarendhar-reddy/project-pseudo-mavericks.git
 2.	Extract the zip file.
-3.	Place the extracted files in XAMPP's htdocs folder.
+3.	Place the extracted files in XAMPPs htdocs folder.
 4.	In the IDE, create a workspace and import the project folder into it.
 5.	Configure the PHP to the workspace using the instructions below.
     a.	On the toolbar, go to the preferences area beneath the window section.
@@ -64,7 +64,7 @@ Employee Creation Screen
     c.	Add the name and PHP executable file.                
 6.	Create a database in phpMyAdmin with the name “employee_ms”.
 7.	In the database, import the "employee_ms.sql" file.
-8.	To start as admin, set up the start page in the IDE's run configurations.
+8.	To start as admin, set up the start page in the IDEs run configurations.
     a.	/employee_ms/login.php
 9.	Run the application and access the application using the localhost URL.
 a.	Ex: http://localhost/employee_ms/login.php#!
