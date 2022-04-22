@@ -16,6 +16,7 @@ Here is a list of useful project references/links.
 - [Planning Documents](https://github.com/amarendhar-reddy/project-pseudo-mavericks/tree/main/Planning%20Documents)
 - [Meeting Minutes](https://github.com/amarendhar-reddy/project-pseudo-mavericks/tree/main/Meeting%20Minutes)
 - [Deliverable](https://github.com/amarendhar-reddy/project-pseudo-mavericks/tree/main/Deliverables)
+- [User Manual](https://github.com/amarendhar-reddy/project-pseudo-mavericks/tree/main/User%20Manual)
 - [GROUP-INFO](https://github.com/amarendhar-reddy/project-pseudo-mavericks/blob/main/GROUP-INFO)
 - [README.md](https://github.com/amarendhar-reddy/project-pseudo-mavericks/blob/main/README.md) 
 ## Authors
